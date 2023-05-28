@@ -18,7 +18,7 @@ There are two scripts: *get_features.py*, and *predict.py*
 
 get_features.py obtains features from synchronized mother baby data streams into one single file final.csv
 
-Input format example: (time in second, acc value) in css file. 
+Input format example: (time in second, acc value) in css file   
 0.1 23.12  
 0.2 43.12  
 
